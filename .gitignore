@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Wine-page generated outputs & working files
+wine-page-*.html
+wine-page-*.pdf
+test-output.html
+test-output.pdf
+page.json
+*.zip
